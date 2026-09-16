@@ -8,6 +8,7 @@
 - Added Python 3.13 support
 - Upgraded numpy to 2.0 on Python 3.13
 - Upgraded tensorflow to 2.21.0
+- Restricted route-distances optional dependency to Python <3.13
 
 ## Version 4.4.1 2025-12-09
 
